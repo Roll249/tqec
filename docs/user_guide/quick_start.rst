@@ -170,6 +170,8 @@ The compilation of the block graph is done automatically based on the inputs.
 Simulation results can be plotted with ``matplolib`` using the
 ``plot_simulation_results``.
 
+See :ref:`understanding_error_plots` for a detailed explanation of how to read these plots.
+
 .. jupyter-execute::
 
     import matplotlib.pyplot as plt

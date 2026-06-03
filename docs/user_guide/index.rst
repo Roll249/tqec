@@ -15,6 +15,7 @@ User Guide
    :caption: Concepts
 
    Surface codes <surface_codes>
+   Understanding error plots <understanding_error_plots>
 
 .. toctree::
    :maxdepth: 1
